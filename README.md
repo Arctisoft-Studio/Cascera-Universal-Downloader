@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="images/medio-logo.png" alt="Medio" width="96" height="96">
+  <img src="images/cascera-logo.png" alt="Cascera" width="96" height="96">
 </p>
 
-<h1 align="center">Medio</h1>
+<h1 align="center">Cascera</h1>
 
 <p align="center"><strong>Universal Downloader for Windows</strong></p>
 
 <p align="center">Download, convert and organise media for your personal library.</p>
 
 <p align="center">
-  <a href="https://github.com/Arctisoft-Studio/Medio-Universal-Downloader/releases/latest"><strong>Download</strong></a> ·
-  <a href="https://arctisoft-studio.com/software/medio/">Product website</a> ·
+  <a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader/releases/latest"><strong>Download</strong></a> ·
+  <a href="https://arctisoft-studio.com/software/cascera/">Product website</a> ·
   <a href="https://arctisoft-studio.com/pricing/">Editions &amp; pricing</a> ·
-  <a href="https://github.com/Arctisoft-Studio/Medio-Universal-Downloader/releases">Release notes</a> ·
+  <a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader/releases">Release notes</a> ·
   <a href="https://arctisoft-studio.com/support/">Support</a>
 </p>
 
 <br>
 
-Medio is the media downloader and converter of Arctisoft Studio. Review a source and its available streams, choose exactly what you want, and manage the work in a recoverable queue. Profiles, naming policies, subtitles and automation let you repeat a workflow consistently, and local conversion turns files into the formats your devices need.
+Cascera is the media downloader and converter of Arctisoft Studio. Review a source and its available streams, choose exactly what you want, and manage the work in a recoverable queue. Profiles, naming policies, subtitles and automation let you repeat a workflow consistently, and local conversion turns files into the formats your devices need.
 
 ## Capabilities
 
@@ -28,9 +28,9 @@ Medio is the media downloader and converter of Arctisoft Studio. Review a source
 - **Local conversion.** FFmpeg-based conversion with hardware encoding where available, HDR preservation or conversion to SDR, two-pass encoding, audio normalisation, and pitch, speed and creative audio processing.
 - **Repeated work.** Saved download profiles, schedules, subscriptions, watch folders and intake rules that route each source to the right workflow.
 - **Tools and records.** Stream and chapter reports, full decode checks, SHA-256/SHA-512/MD5 checksums, a local library, download history and statistics — copied to your account only when you choose.
-- **Integration.** Open browser links in Medio, a browser companion, Windows Send To and a command line.
+- **Integration.** Open browser links in Cascera, a browser companion, Windows Send To and a command line.
 
-Downloads use yt-dlp and conversion uses FFmpeg; Medio installs and updates both through its Components workflow. The formats, resolutions and subtitles offered depend on the source. Medio does not circumvent DRM or other access protection.
+Downloads use yt-dlp and conversion uses FFmpeg; Cascera installs and updates both through its Components workflow. The formats, resolutions and subtitles offered depend on the source. Cascera does not circumvent DRM or other access protection.
 
 ## Editions
 
@@ -61,17 +61,17 @@ Premium is a one-time purchase for one person, covering the licensed major versi
 | Operating system | Windows 10 or Windows 11, 64-bit (x64) |
 | Runtime | Included with the installer |
 | Installation | For your Windows user account; administrator rights are not required |
-| Components | yt-dlp and FFmpeg, installed and updated by Medio |
+| Components | yt-dlp and FFmpeg, installed and updated by Cascera |
 | Hardware encoding | Optional; used when a supported GPU encoder is available |
 | Internet | For downloads, component updates, sign-in, licensing and updates; conversion works offline |
 
 ## Installation and updates
 
-1. Download `v<version>-medio.exe` from the [latest release](https://github.com/Arctisoft-Studio/Medio-Universal-Downloader/releases/latest).
+1. Download `v<version>-cascera.exe` from the [latest release](https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader/releases/latest).
 2. Run the installer and accept the license agreement. Setup can also install [Arctisoft Studio Hub](https://github.com/Arctisoft-Studio/Arctisoft-Studio-Hub).
-3. Start Medio and let it install its components. Sign in through Studio Hub when you want Premium, the trial or account history.
+3. Start Cascera and let it install its components. Sign in through Studio Hub when you want Premium, the trial or account history.
 
-Medio checks this repository for updates and installs a new version only after verifying it against the SHA-256 checksum GitHub publishes for the release. Studio Hub can install and update the whole Arctisoft collection from one place.
+Cascera checks this repository for updates and installs a new version only after verifying it against the SHA-256 checksum GitHub publishes for the release. Studio Hub can install and update the whole Arctisoft collection from one place.
 
 ## Accounts and privacy
 
@@ -79,15 +79,15 @@ Manual downloads and conversion do not require an account. Requests go only to t
 
 ## Responsible use
 
-Medio is licensed for **personal, non-commercial use** in both editions. Download only material you are entitled to use, in accordance with the source's terms and applicable law. The availability of a download does not grant rights to its content.
+Cascera is licensed for **personal, non-commercial use** in both editions. Download only material you are entitled to use, in accordance with the source's terms and applicable law. The availability of a download does not grant rights to its content.
 
 ## Support
 
-Open the user guide from **Help**, visit [Arctisoft Support](https://arctisoft-studio.com/support/) or write to [support@arctisoft-studio.com](mailto:support@arctisoft-studio.com). Report reproducible problems and suggest improvements through [GitHub Issues](https://github.com/Arctisoft-Studio/Medio-Universal-Downloader/issues). Please keep license keys, account details, cookies and private source links out of public reports.
+Open the user guide from **Help**, visit [Arctisoft Support](https://arctisoft-studio.com/support/) or write to [support@arctisoft-studio.com](mailto:support@arctisoft-studio.com). Report reproducible problems and suggest improvements through [GitHub Issues](https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader/issues). Please keep license keys, account details, cookies and private source links out of public reports.
 
 ## License
 
-Medio is proprietary software. This repository holds its public documentation and official releases; the source code is not published. Use is governed by the [Medio EULA](LICENSE), the [Arctisoft Studio License Agreement](https://arctisoft-studio.com/legal/license/) and the [Terms of Service](https://arctisoft-studio.com/legal/terms/). yt-dlp, FFmpeg and the other open-source components keep their own licenses and are listed in the third-party notices installed with Medio.
+Cascera is proprietary software. This repository holds its public documentation and official releases; the source code is not published. Use is governed by the [Cascera EULA](LICENSE), the [Arctisoft Studio License Agreement](https://arctisoft-studio.com/legal/license/) and the [Terms of Service](https://arctisoft-studio.com/legal/terms/). yt-dlp, FFmpeg and the other open-source components keep their own licenses and are listed in the third-party notices installed with Cascera.
 
 ---
 
