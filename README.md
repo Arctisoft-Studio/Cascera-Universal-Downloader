@@ -91,4 +91,4 @@ Cascera is proprietary software. This repository holds its public documentation 
 
 ---
 
-<p align="center"><sub>© 2024–2026 Arctisoft Studio. All rights reserved.</sub></p>
+<p align="center"><sub>© 2025–2026 Arctisoft Studio. All rights reserved.</sub></p>
