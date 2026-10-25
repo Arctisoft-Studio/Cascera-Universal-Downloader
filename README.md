@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Universal Downloader for Windows</strong></p>
 
-<p align="center">Download, convert and organise media for your personal library.</p>
+<p align="center">Download, convert and organize media for your personal library.</p>
 
 <p align="center">
   <a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader/releases/latest"><strong>Download</strong></a> ·
@@ -25,7 +25,7 @@ Cascera is the media downloader and converter of Arctisoft Studio. Review a sour
 - **Reviewed intake.** Inspect the video, audio and subtitle choices of a source before adding it. Collect playlists, channels, feeds and linked files with the Link Collector, or let the built-in Browser list the media a page loads while you use it.
 - **Exact output.** Download video or extract audio, choose format and quality, preferred audio languages, subtitles, metadata, thumbnails and a trim range, with naming and existing-file policies.
 - **A recoverable queue.** Inspect and edit queued jobs, clone or retry them, and see clearly which files completed, which were interrupted and which could not be delivered.
-- **Local conversion.** FFmpeg-based conversion with hardware encoding where available, HDR preservation or conversion to SDR, two-pass encoding, audio normalisation, and pitch, speed and creative audio processing.
+- **Local conversion.** FFmpeg-based conversion with hardware encoding where available, HDR preservation or conversion to SDR, two-pass encoding, audio normalization, and pitch, speed and creative audio processing.
 - **Repeated work.** Saved download profiles, schedules, subscriptions, watch folders and intake rules that route each source to the right workflow.
 - **Tools and records.** Stream and chapter reports, full decode checks, SHA-256/SHA-512/MD5 checksums, a local library, download history and statistics — copied to your account only when you choose.
 - **Integration.** Open browser links in Cascera, a browser companion, Windows Send To and a command line.
@@ -42,7 +42,7 @@ Basic completes a job by hand. Premium repeats it, automates it or raises its li
 | Video resolution, when offered by the source | Up to 1440p | Up to 8K |
 | Download queue | Up to 5 jobs | Up to 50 jobs |
 | Playlists and collections | First 10 items per job | All items |
-| Conversion, trimming, normalisation, subtitles and SponsorBlock | ✓ | ✓ |
+| Conversion, trimming, normalization, subtitles and SponsorBlock | ✓ | ✓ |
 | Schedules, subscriptions and watch folders | Run by hand | Also run automatically |
 | Saved download profiles | One | Any number |
 | Intake rules and rule packages | Kept, not applied | Create, apply, import and export |
@@ -91,4 +91,4 @@ Cascera is proprietary software. This repository holds its public documentation 
 
 ---
 
-<p align="center"><sub>© 2024–2026 Arctisoft Studio · Bernd Julian Hagen · Austria. All rights reserved.</sub></p>
+<p align="center"><sub>© 2024–2026 Arctisoft Studio. All rights reserved.</sub></p>
