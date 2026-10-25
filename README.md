@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Universal Downloader for Windows</strong></p>
 
-<p align="center">Download, convert and organize media for your personal library.</p>
+<p align="center">Download, convert and organize media for your personal library</p>
 
 <p align="center">
   <a href="https://github.com/Arctisoft-Studio/Cascera-Universal-Downloader/releases/latest"><strong>Download</strong></a> ·
